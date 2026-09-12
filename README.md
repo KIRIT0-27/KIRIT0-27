@@ -124,8 +124,8 @@ I enjoy turning ideas into real projects using programming, web technologies, da
 <br>
 
 <div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sohanmaity&theme=tokyonight&hide_border=true&border_radius=12" />
+  
+<img src="https://ghchart.rshah.org/7c3aed/sohanmaity" alt="Sohan Maity's GitHub Contribution Chart" width="100%" />
 
 </div>
 

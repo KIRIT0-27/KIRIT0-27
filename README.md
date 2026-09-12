@@ -156,12 +156,22 @@ I enjoy turning ideas into real projects using programming, web technologies, da
 ---
 
 ## 🐍 Contribution Snake
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KIRIT0-27/KIRIT0-27/output/github-contribution-grid-snake-dark.svg"
-     alt="Snake animation" />
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/KIRIT0-27/KIRIT0-27/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/KIRIT0-27/KIRIT0-27/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/KIRIT0-27/KIRIT0-27/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 
 ---

@@ -125,8 +125,6 @@ I enjoy turning ideas into real projects using programming, web technologies, da
 
 ## 🔥 GitHub Streak
 
-## 🔥 GitHub Streak
-
 <div align="center">
 
 <img width="70%"

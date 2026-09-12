@@ -133,6 +133,15 @@ I enjoy turning ideas into real projects using programming, web technologies, da
 
 </div>
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%"
+     src="https://github-readme-activity-graph.vercel.app/graph?username=KIRITO-27&theme=tokyo-night&hide_border=true&radius=12"
+     alt="Sohan Maity Contribution Graph" />
+
+</div>
 ---
 
 ## 📈 Contribution Activity

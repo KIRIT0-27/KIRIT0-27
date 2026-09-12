@@ -123,9 +123,15 @@ I enjoy turning ideas into real projects using programming, web technologies, da
 
 <br>
 
+## 🔥 GitHub Streak
+
+## 🔥 GitHub Streak
+
 <div align="center">
-  
-<img width="70%" src="https://streak-stats.demolab.com?user=sohanmaity&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img width="70%"
+     src="https://streak-stats.demolab.com?user=sohanmaity&theme=tokyonight&hide_border=true&border_radius=12"
+     alt="Sohan Maity GitHub Streak" />
 
 </div>
 

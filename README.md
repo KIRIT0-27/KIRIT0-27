@@ -128,27 +128,16 @@ I enjoy turning ideas into real projects using programming, web technologies, da
 <div align="center">
 
 <img width="70%"
-     src="https://streak-stats.demolab.com?user=sohanmaity&theme=tokyonight&hide_border=true&border_radius=12"
+     src="https://streak-stats.demolab.com?user=KIRIT0-27&theme=tokyonight&hide_border=true&border_radius=12"
      alt="Sohan Maity GitHub Streak" />
 
-</div>
+
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="95%"
-     src="https://github-readme-activity-graph.vercel.app/graph?username=KIRITO-27&theme=tokyo-night&hide_border=true&radius=12"
-     alt="Sohan Maity Contribution Graph" />
-
-</div>
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohanmaity&theme=tokyo-night&hide_border=true&radius=12" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KIRIT0-27&theme=tokyo-night&hide_border=true&radius=12" width="95%" />
 
 </div>
 

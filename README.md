@@ -149,7 +149,6 @@ I enjoy turning ideas into real projects using programming, web technologies, da
 
 </div>
 
-> Note: The contribution snake requires a GitHub Actions workflow to generate the image.
 
 ---
 
